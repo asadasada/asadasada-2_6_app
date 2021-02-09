@@ -1,5 +1,5 @@
 vue-cliを利用したクイズアプリです。
 
-vuejsのprops up event downを理解するために作成。
+vuejsのprops down event upを理解するために作成。
 
 vuexは使用してません。
