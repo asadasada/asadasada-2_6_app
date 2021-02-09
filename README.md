@@ -1,28 +1,3 @@
-<<<<<<< HEAD
-# nanika
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# 2_6_app
->>>>>>> origin/master
+vue-cliを利用したクイズアプリです。
+vuejsのprops up event downを理解するために作成。
+vuexは使用してません。
