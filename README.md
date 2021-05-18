@@ -1,4 +1,8 @@
 vue-cliを利用したクイズアプリです。
+クイズのデータベースは外部web apiを使用いたしました。
+
+![quiz](https://user-images.githubusercontent.com/6861884/118599042-ead4a700-b7e9-11eb-87ff-46cb3b9d14b9.png)
+
 
 vuejsのprops down event upを理解するために作成。
 
@@ -8,3 +12,5 @@ vuejsのprops down event upを理解するために作成。
 - vue.js
 - firebase
 - axios
+- web api
+- bootstrap
